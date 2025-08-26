@@ -1,0 +1,4 @@
+name: vibeenv
+channels:
+  - defaults
+prefix: /net/nfs-irwrsrchnas01/labs/dschones/bioresearch/miniconda3/envs/vibeenv
